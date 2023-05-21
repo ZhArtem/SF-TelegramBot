@@ -1,4 +1,4 @@
-# SF-TelegramBot
+# Сurrency Converter TelegramBot
 
 ### Сurrency conversion Telegram bot for practical work on SkillFactory course
 
@@ -18,4 +18,9 @@
 - Для отправки запросов к API описан класс со статическим методом get_convert(), который принимает три аргумента: имя валюты, цену на которую надо узнать, имя валюты, цену в которой надо узнать, количество переводимой валюты и возвращает нужную сумму в валюте.
 - Все классы хранятся в файле extensions.py.
 
-[https://t.me/cryppptobot](https://t.me/cryppptobot)
+<img src="https://github.com/ZhArtem/SF-TelegramBot/assets/114347290/8f4ccd23-a75c-4e73-96b5-5bd19b87fb19" width="200" />
+<img src="https://github.com/ZhArtem/SF-TelegramBot/assets/114347290/fa435e7f-7325-4362-8483-5bb1f9148321" width="200" />
+<img src="https://github.com/ZhArtem/SF-TelegramBot/assets/114347290/82d7e2d5-394f-4b4f-be2a-3d34041dda75" width="200" />
+
+[https://t.me/curr_converterbot](https://t.me/curr_converterbot)
+
